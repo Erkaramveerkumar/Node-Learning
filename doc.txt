@@ -1,0 +1,81 @@
+1. what is REPL in node? 
+>> REPL stands for Read-Eval-Print Loop. It is a built-in feature in Node.js
+2. how to use REPL in node?
+>> You can use the REPL in Node.js by running the following command in your terminal:
+>> node
+>> This will open the REPL interface, where you can type JavaScript commands and see the results. You can
+3. what is the use of REPL in node?
+>> The REPL in Node.js is useful for several purposes:
+4. how to exit from REPL in node? // 
+>> (To exit, press Ctrl+C two times or Ctrl+D or type .exit)
+
+REPL >
+ R - Read
+ E - Evaluate
+ P - Print
+ L - Loop
+
+how to enter in REPL
+node
+welcome to node js
+>
+
+how to run a js file
+node filename.js
+
+
+
+// what is a package.json
+-> package.json is a file that contains metadata about a project in a Node.js application. It is used to manage dependencies, scripts, and other project settings.
+-> a package.json is stored the information of our node js project
+
+// how to create a package.json 
+-> npm init
+-> npm init -y // for default create package.json
+-> npm init -f // for fourcefully create package.json 
+
+
+// how to install a package
+-> npm install package-name //  npm i package-name
+-> npm install package-name@version
+-> npm install package-name@version --save
+-> npm install package-name@version --save-dev
+
+
+// how to uninstall a package
+-> npm uninstall package-name 
+-> npm uninstall package-name@version
+
+
+// how to update a package
+-> npm update package-name // npm install
+
+
+// how to list all installed packages
+-> npm ls
+
+// how to list all installed packages in json format
+-> npm ls --json
+
+// how to list all installed packages in json format with depth
+-> npm ls --json --depth=0
+
+
+// what is package-lock.json
+-> package-lock.json is a file that contains a snapshot of the exact dependencies and versions used in a project. It is used to ensure that the project can be rebuilt exactly as it was when the lock file was created.
+
+
+
+// what is a server ?
+-> a server is a program that runs on a computer and provides services to other programs or users over a network.
+
+
+// how to start a server 
+-> node index.js // npm start
+
+what is the use of nodemon? 
+-> nodemon is a tool that automatically restarts the Node.js server whenever there are changes to the code. It is used to speed up the development process by avoiding the need to manually restart the server after making changes to the code.
+
+
+type in package.json 
+// commonjs and module

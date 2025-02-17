@@ -1,0 +1,14 @@
+{
+  "name": "karama",
+  "version": "1.0.0",
+  "description": "karma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karma",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
