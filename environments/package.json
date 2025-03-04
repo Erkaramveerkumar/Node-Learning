@@ -1,0 +1,21 @@
+{
+  "name": "environments",
+  "version": "1.0.0",
+  "description": "env",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "author": "test",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

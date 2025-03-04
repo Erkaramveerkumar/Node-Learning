@@ -79,3 +79,14 @@ what is the use of nodemon?
 
 type in package.json 
 // commonjs and module
+
+
+
+// what is envirment variables in node js
+// Environment variables are global variables that are available to all the processes in the system.
+// In Node.js, we can access environment variables using the process.env object.
+
+
+// What is MongoDB?
+MongoDB is a NoSQL database that stores data in BSON format, a JSON-like document format designed for storing data in key-value pairs. It is commonly used in JavaScript application development because the document model maps easily to objects in application code, and there is built in support for high availability and horizontal scaling.
+
